@@ -114,9 +114,10 @@
             <pb facs="tcp:55536:1"/>
             <pb facs="tcp:55536:1"/>
             <p>Paradoxical ASSERTIONS AND Philosophical PROBLEMS. Full of Delight and Recreation for all Ladies and Youthful Fancies.</p>
-            <figure>
-               <p>RH</p>
-            </figure>
+            <p>BY <figure>
+                  <p>RH</p>
+               </figure>
+            </p>
             <q>
                <bibl>Lucret. lib. 1.</bibl>
 
@@ -887,9 +888,10 @@ Glo worma, who swell with Honours and shine with <gap reason="illegible" resp="#
                <div type="title_page">
                   <pb facs="tcp:55536:41"/>
                   <p>Philosophical PROBLEMS.</p>
-                  <figure>
-                     <p>RH</p>
-                  </figure>
+                  <p>BY <figure>
+                        <p>RH</p>
+                     </figure>
+                  </p>
                   <q>Aut prodesse solent aut de<g ref="char:EOLhyphen"/>lectare.</q>
                   <p>
                      <hi>London,</hi> Printed by <hi>R. W.</hi> and are to be sold by <hi>Charles Webb,</hi> at the Bores-Head in St. <hi>Pauls Church-yard,</hi> 1659.</p>
